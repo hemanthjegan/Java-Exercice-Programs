@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DSA/DSA.iml" filepath="$PROJECT_DIR$/DSA/DSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hacker_rank/Hacker_rank.iml" filepath="$PROJECT_DIR$/Hacker_rank/Hacker_rank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ITC_bootcamp/ITC_Bootcamp.iml" filepath="$PROJECT_DIR$/ITC_bootcamp/ITC_Bootcamp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Maventic_programs/Maventic_programs.iml" filepath="$PROJECT_DIR$/Maventic_programs/Maventic_programs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Oops concept/Oops concept.iml" filepath="$PROJECT_DIR$/Oops concept/Oops concept.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String/String.iml" filepath="$PROJECT_DIR$/String/String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thread_exception/Thread_exception.iml" filepath="$PROJECT_DIR$/Thread_exception/Thread_exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/array/array.iml" filepath="$PROJECT_DIR$/array/array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packages/banking_system/banking_system.iml" filepath="$PROJECT_DIR$/packages/banking_system/banking_system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/banking_system2/banking_system2.iml" filepath="$PROJECT_DIR$/banking_system2/banking_system2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/class_programs/class_programs.iml" filepath="$PROJECT_DIR$/class_programs/class_programs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collection/collection.iml" filepath="$PROJECT_DIR$/collection/collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/daily_assign/daily_assign.iml" filepath="$PROJECT_DIR$/daily_assign/daily_assign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interview questions/interview questions.iml" filepath="$PROJECT_DIR$/interview questions/interview questions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leetcode/leetcode.iml" filepath="$PROJECT_DIR$/leetcode/leetcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraray_management/libraray_management.iml" filepath="$PROJECT_DIR$/libraray_management/libraray_management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packages/packages.iml" filepath="$PROJECT_DIR$/packages/packages.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pattern/pattern.iml" filepath="$PROJECT_DIR$/pattern/pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practical_programs_1.8.iml" filepath="$PROJECT_DIR$/practical_programs_1.8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ITC_bootcamp/week-1/week-1.iml" filepath="$PROJECT_DIR$/ITC_bootcamp/week-1/week-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wrapper_class/wrapper_class.iml" filepath="$PROJECT_DIR$/wrapper_class/wrapper_class.iml" />
+    </modules>
+  </component>
+</project>
